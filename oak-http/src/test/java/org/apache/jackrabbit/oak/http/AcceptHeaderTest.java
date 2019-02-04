@@ -16,7 +16,7 @@
  */
 package org.apache.jackrabbit.oak.http;
 
-import static junit.framework.Assert.assertEquals;
+//import static junit.framework.Assert.assertEquals;
 
 import org.junit.Test;
 
